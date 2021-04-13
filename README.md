@@ -9,6 +9,12 @@ Latihan android studio pertama
 	
 - Latihan13
 	- Menu SlideShow
+
+- Latihan37
+	- Menu utama (menampilkan form input)
+	- list view
+	- form input activity
+	- screen about
 	
 
 Regards,
