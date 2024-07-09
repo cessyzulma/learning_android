@@ -9,7 +9,8 @@ Latihan android studio pertama
 	
 #### Latihan13
 1. Menu SlideShow
-   Output :
+
+    Output :
    ![image](https://github.com/cessyzulma/learning_android/assets/63056833/f1cd8040-4d46-4004-aa07-ab7dfed2fcb5)
 
    ![image](https://github.com/cessyzulma/learning_android/assets/63056833/91b1ac4e-8bea-4d93-b1db-a3abd785b35a)
