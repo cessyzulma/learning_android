@@ -5,7 +5,11 @@ Latihan android studio pertama
 	- Menu utama 
 	- Menampilkan list view 
 	- Menampilkan form input activity
-	- Menampilkan screen about 
+	- Menampilkan screen about
+ ##### Output
+ 	- Menu utama
+ ![image](https://github.com/cessyzulma/learning_android/assets/63056833/aa09ce81-1bb0-4642-a041-7dec2d04a2ec)
+
 	
 #### Latihan13
 - Menu SlideShow
